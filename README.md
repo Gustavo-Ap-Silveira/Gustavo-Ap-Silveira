@@ -1,168 +1,123 @@
 <div align="center">
 
-# Gustavo Aparecido 👨‍💻
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,35:3A0CA3,70:00D9FF,100:090014&height=220&section=header&text=GUSTAVO%20APARECIDO&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=ANÁLISE%20E%20DESENVOLVIMENTO%20DE%20SISTEMAS&descAlignY=60&descSize=15&animation=fadeIn" />
 
-### Estudante de Análise e Desenvolvimento de Sistemas
-
-**Desenvolvimento Web • Programação • Banco de Dados**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Gustavo--Ap--Silveira-181717?style=for-the-badge&logo=github)](https://github.com/Gustavo-Ap-Silveira)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Silveira-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gustavo-silveira-57320b336)
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:171A35,50:343A80,100:28B9D8&height=130&section=header&text=Bem-vindo%20ao%20meu%20GitHub&fontSize=28&fontColor=EAF2FF&animation=fadeIn" width="100%">
+<a href="https://github.com/Gustavo-Ap-Silveira">
+  <img src="https://img.shields.io/badge/GitHub-0D0B1A?style=for-the-badge&logo=github&logoColor=00E5FF" />
+</a>
+<a href="https://linkedin.com/in/gustavo-silveira-57320b336">
+  <img src="https://img.shields.io/badge/LinkedIn-0D0B1A?style=for-the-badge&logo=linkedin&logoColor=00E5FF" />
+</a>
+<img src="https://img.shields.io/badge/Status-Estudando-7B2CFF?style=for-the-badge&labelColor=0D0B1A" />
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## `> Olá, mundo!` 👋
 
-Olá! Sou **Gustavo Aparecido**, estudante do 1º semestre de **Análise e Desenvolvimento de Sistemas**.
+Sou **Gustavo Aparecido**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)**. Estou construindo minha trajetória na tecnologia por meio dos estudos, projetos acadêmicos e prática constante.
 
-Estou construindo minha trajetória na área de tecnologia por meio dos estudos, cursos complementares e projetos práticos.
+Tenho interesse em desenvolvimento de software, programação, banco de dados e criação de soluções que ajudem a resolver problemas reais. Este perfil reúne um pouco do que venho aprendendo e desenvolvendo durante essa jornada.
 
-Tenho interesse em entender como as aplicações são desenvolvidas, como os dados são organizados e como a lógica de programação pode resolver problemas.
-
-Atualmente, busco ampliar meus conhecimentos e conquistar minha **primeira oportunidade na área de tecnologia**.
-
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-- 💻 Praticando desenvolvimento web e programação em C.
-- 🗄️ Estudando banco de dados, SQL e modelagem de dados.
-- 🧠 Aprendendo algoritmos e estruturas de dados.
-- 🚀 Desenvolvendo projetos acadêmicos e pessoais.
+> **Meu objetivo:** conquistar minha primeira oportunidade na área de tecnologia e continuar evoluindo como desenvolvedor.
 
 ---
 
-## 🧭 Áreas de interesse
+## `> Tecnologias e ferramentas`
 
 <div align="center">
 
-![Web](https://img.shields.io/badge/Desenvolvimento_Web-1572B6?style=for-the-badge&logo=html5&logoColor=white)
-![Front End](https://img.shields.io/badge/Front--End-6C63FF?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/Programação_em_C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/Banco_de_Dados-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Algoritmos](https://img.shields.io/badge/Algoritmos_e_Estruturas-7655C9?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=html,css,c,mysql,git,github,vscode&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HTML5-0D0B1A?style=for-the-badge&logo=html5&logoColor=FF4D00" />
+<img src="https://img.shields.io/badge/CSS3-0D0B1A?style=for-the-badge&logo=css3&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/C-0D0B1A?style=for-the-badge&logo=c&logoColor=7B61FF" />
+<img src="https://img.shields.io/badge/SQL-0D0B1A?style=for-the-badge&logo=mysql&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Git-0D0B1A?style=for-the-badge&logo=git&logoColor=FF6B35" />
+<img src="https://img.shields.io/badge/GitHub-0D0B1A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 
 </div>
 
-## 🛠️ Tecnologias e ferramentas
+### O que venho estudando
 
-### Estudando e praticando
+- **Front-end:** estruturação de páginas com HTML e estilização com CSS.
+- **Linguagem C:** variáveis, condições, repetições, funções, ponteiros, vetores, matrizes e arquivos.
+- **Algoritmos:** lógica de programação e métodos de ordenação, como Bubble Sort, Insertion Sort, Selection Sort, Merge Sort e Quick Sort.
+- **Banco de dados:** SQL, MySQL, criação de tabelas, relacionamentos e modelagem de dados.
+- **Ferramentas:** Git, GitHub, Visual Studio Code e MySQL Workbench.
+
+---
+
+## `> Projetos em destaque`
+
+Aqui estão alguns projetos e atividades que fazem parte da minha evolução nos estudos:
+
+| Projeto | Descrição |
+|:--|:--|
+| **SCourge** | Projeto de desenvolvimento web criado para praticar HTML e CSS. |
+| **UPskill** | Projeto acadêmico com proposta de sistema ERP, envolvendo documentação, processos e modelagem de dados. |
+| **Caixa Eletrônico** | Exercício de lógica de programação com operações de saque e cálculo de cédulas em C. |
+| **Cifra de César** | Exercício de programação envolvendo manipulação de caracteres e lógica. |
+| **Fibonacci e Criptografia** | Prática de algoritmos e lógica de programação. |
+| **Progressão Aritmética** | Exercício de programação para trabalhar com sequências numéricas. |
+
+> Você pode encontrar esses projetos na aba **Repositories** do meu perfil.
+
+---
+
+## `> Formação e cursos`
+
+- 🎓 **Análise e Desenvolvimento de Sistemas** — 1º semestre.
+- 💻 **Curso técnico** — formação técnica concluída.
+- 📘 **Fundação Bradesco:** cursos de Administração, Banco de Dados e Fundamentos de TI: Hardware e Software.
+
+---
+
+## `> GitHub em números`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,c,mysql,git,github,vscode&theme=dark">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Ap-Silveira&show_icons=true&hide_border=true&bg_color=0D0B1A&title_color=00E5FF&icon_color=7B61FF&text_color=EDEBFF&ring_color=00E5FF&include_all_commits=true" />
 
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Ap-Silveira&layout=compact&hide_border=true&bg_color=0D0B1A&title_color=00E5FF&text_color=EDEBFF" />
 
-### Conhecimentos em desenvolvimento
+<br/>
 
-- **HTML e CSS:** estruturação e estilização de páginas web.
-- **C:** lógica, funções, modularização, structs, ponteiros e arquivos.
-- **Algoritmos:** Bubble Sort, Insertion Sort, Selection Sort, Merge Sort e Quick Sort.
-- **SQL:** criação de tabelas, consultas, relacionamentos e comandos de banco de dados.
-- **MySQL:** gerenciamento de bancos de dados relacionais.
-- **Modelagem de dados:** DER e organização de estruturas de dados.
-
----
-
-## 🎓 Formação e cursos complementares
-
-- **Análise e Desenvolvimento de Sistemas** — Graduação em andamento.
-- **Curso técnico** — Formação técnica concluída.
-- **Fundação Bradesco:**
-  - Administração.
-  - Banco de Dados.
-  - Fundamentos de TI: Hardware e Software.
-
----
-
-## 🚀 Projetos em destaque
-
-<div align="center">
-
-<a href="https://github.com/Gustavo-Ap-Silveira/SCourge">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Ap-Silveira&repo=SCourge&theme=tokyonight&hide_border=true">
-</a>
-
-<a href="https://github.com/Gustavo-Ap-Silveira/Caixa_eletronico">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Ap-Silveira&repo=Caixa_eletronico&theme=tokyonight&hide_border=true">
-</a>
-
-<a href="https://github.com/Gustavo-Ap-Silveira/Cifra_de_Cesar">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Ap-Silveira&repo=Cifra_de_Cesar&theme=tokyonight&hide_border=true">
-</a>
-
-<a href="https://github.com/Gustavo-Ap-Silveira/Progress-o_Aritmetica">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Ap-Silveira&repo=Progress-o_Aritmetica&theme=tokyonight&hide_border=true">
-</a>
-
-<a href="https://github.com/Gustavo-Ap-Silveira/Egito">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Ap-Silveira&repo=Egito&theme=tokyonight&hide_border=true">
-</a>
-
-<a href="https://github.com/Gustavo-Ap-Silveira/Fibonacci-e-criptografia-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Gustavo-Ap-Silveira&repo=Fibonacci-e-criptografia-&theme=tokyonight&hide_border=true">
-</a>
+<img width="80%" src="https://streak-stats.demolab.com?user=Gustavo-Ap-Silveira&hide_border=true&background=0D0B1A&ring=00E5FF&fire=7B61FF&currStreakLabel=00E5FF&sideLabels=EDEBFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAA3C7" />
 
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## `> O que estou buscando`
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Ap-Silveira&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=28B9D8&icon_color=7655C9">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Ap-Silveira&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=28B9D8">
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-Ap-Silveira&theme=tokyonight&hide_border=true&ring=28B9D8&fire=7655C9&currStreakLabel=28B9D8">
-
-</div>
+- Aprimorar minha lógica de programação.
+- Desenvolver projetos próprios e acadêmicos.
+- Aprender novas tecnologias e boas práticas.
+- Evoluir em desenvolvimento web e banco de dados.
+- Encontrar minha primeira oportunidade profissional em tecnologia.
 
 ---
 
-## 📈 Histórico de contribuições
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gustavo-Ap-Silveira&bg_color=1a1b27&color=28B9D8&line=7655C9&point=E0E7FF&area=true&hide_border=true" width="98%">
-
-</div>
-
----
-
-## 🎯 Objetivos profissionais
-
-Meu objetivo é continuar aprendendo, transformar cada atividade em experiência prática e construir projetos que demonstrem minha evolução.
-
-Busco uma oportunidade de estágio ou minha primeira experiência profissional na área de tecnologia, onde possa aprender, colaborar e desenvolver minhas habilidades.
-
----
-
-## 🤝 Vamos nos conectar?
+## `> Vamos nos conectar?`
 
 <div align="center">
 
 <a href="https://linkedin.com/in/gustavo-silveira-57320b336">
-<img src="https://img.shields.io/badge/LinkedIn-Conecte--se_comigo-0A66C2?style=for-the-badge&logo=linkedin">
+  <img src="https://img.shields.io/badge/MEU_LINKEDIN-7B2CFF?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/Gustavo-Ap-Silveira">
-<img src="https://img.shields.io/badge/GitHub-Meus_repositórios-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/MEU_GITHUB-00BFEA?style=for-the-badge&logo=github&logoColor=0D0B1A" />
 </a>
 
-</div>
+<br/><br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:3A0CA3,100:00D9FF&height=110&section=footer" />
 
-<div align="center">
-
-### 🌙 Obrigado pela visita!
-
-*Aprendendo, praticando e evoluindo um projeto de cada vez.*
-
-<img src="./shovel-knight-campfire.gif" width="100%" alt="Shovel Knight em um acampamento na floresta durante a noite">
+<sub>「 Sempre aprendendo. Sempre construindo. 」</sub>
 
 </div>
