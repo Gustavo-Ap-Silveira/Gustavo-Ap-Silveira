@@ -56,33 +56,24 @@ Meus principais objetivos são:
 
 ---
 
-# 🚀 Tecnologias e conhecimentos
+# 🚀 Tecnologias e ferramentas
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,c,mysql,git,github,vscode&theme=dark"/>
 
-</div>
+<br/><br/>
 
-### Linguagens e tecnologias que estou estudando
-
-<div align="center">
-
-| Tecnologia | Conhecimento |
-|:---:|:---|
-| HTML5 | Estruturação de páginas web |
-| CSS3 | Estilização e organização visual |
-| C | Lógica de programação e algoritmos |
-| SQL | Consultas e manipulação de dados |
-| MySQL | Criação e gerenciamento de bancos de dados |
-| Git | Controle de versões |
-| GitHub | Hospedagem e organização de projetos |
+<img src="https://img.shields.io/badge/HTML5-0D0B1A?style=for-the-badge&logo=html5&logoColor=FF4D00"/>
+<img src="https://img.shields.io/badge/CSS3-0D0B1A?style=for-the-badge&logo=css3&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/C-0D0B1A?style=for-the-badge&logo=c&logoColor=7B61FF"/>
+<img src="https://img.shields.io/badge/SQL-0D0B1A?style=for-the-badge&logo=mysql&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Git-0D0B1A?style=for-the-badge&logo=git&logoColor=FF6B35"/>
+<img src="https://img.shields.io/badge/GitHub-0D0B1A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 
 </div>
 
----
-
-# 📊 Nível de contato com as tecnologias
+### 📊 Nível de contato com as tecnologias
 
 <div align="center">
 
@@ -90,31 +81,39 @@ Meus principais objetivos são:
 <tr>
 <td align="center" width="33%">
 
-### HTML5
+<img src="https://img.shields.io/badge/HTML5-FF4D00?style=for-the-badge&logo=html5&logoColor=white"/>
 
-<img src="https://quickchart.io/chart?width=160&height=160&c={type:'radialGauge',data:{datasets:[{data:[65],backgroundColor:'#FF4D00'}]},options:{domain:{min:0,max:100},trackColor:'#252039',centerPercentage:75,roundedCorners:true,needle:{lengthPercentage:0}}}" width="130"/>
+<br/><br/>
+
+<img src="https://geps.dev/progress/65?dangerColor=FF4D00&warningColor=FF4D00&successColor=FF4D00"/>
 
 **65%**
 
 <sub>Estruturação web</sub>
 
 </td>
+
 <td align="center" width="33%">
 
-### CSS3
+<img src="https://img.shields.io/badge/CSS3-00AEEF?style=for-the-badge&logo=css3&logoColor=white"/>
 
-<img src="https://quickchart.io/chart?width=160&height=160&c={type:'radialGauge',data:{datasets:[{data:[55],backgroundColor:'#00D9FF'}]},options:{domain:{min:0,max:100},trackColor:'#252039',centerPercentage:75,roundedCorners:true,needle:{lengthPercentage:0}}}" width="130"/>
+<br/><br/>
+
+<img src="https://geps.dev/progress/55?dangerColor=00AEEF&warningColor=00AEEF&successColor=00AEEF"/>
 
 **55%**
 
 <sub>Estilização visual</sub>
 
 </td>
+
 <td align="center" width="33%">
 
-### Linguagem C
+<img src="https://img.shields.io/badge/LANG_C-8B5CF6?style=for-the-badge&logo=c&logoColor=white"/>
 
-<img src="https://quickchart.io/chart?width=160&height=160&c={type:'radialGauge',data:{datasets:[{data:[50],backgroundColor:'#9B5CFF'}]},options:{domain:{min:0,max:100},trackColor:'#252039',centerPercentage:75,roundedCorners:true,needle:{lengthPercentage:0}}}" width="130"/>
+<br/><br/>
+
+<img src="https://geps.dev/progress/50?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6"/>
 
 **50%**
 
@@ -124,7 +123,7 @@ Meus principais objetivos são:
 </tr>
 </table>
 
-<sub>Indicadores ilustrativos do meu contato atual com cada tecnologia, não avaliações oficiais de proficiência.</sub>
+<sub>Indicadores ilustrativos do meu contato atual com cada tecnologia.</sub>
 
 </div>
 
@@ -133,6 +132,7 @@ Meus principais objetivos são:
 # 🧠 Conhecimentos em desenvolvimento
 
 ### 💻 Programação em C
+
 - Variáveis e tipos de dados.
 - Estruturas condicionais e de repetição.
 - Vetores e matrizes.
@@ -142,6 +142,7 @@ Meus principais objetivos são:
 - Estruturas de dados e ordenação.
 
 ### 🔢 Algoritmos
+
 - Bubble Sort.
 - Insertion Sort.
 - Selection Sort.
@@ -151,6 +152,7 @@ Meus principais objetivos são:
 - Lógica de resolução de problemas.
 
 ### 🗄️ Banco de dados
+
 - Criação de bancos de dados.
 - Criação e alteração de tabelas.
 - Chaves primárias e estrangeiras.
@@ -160,6 +162,7 @@ Meus principais objetivos são:
 - MySQL Workbench.
 
 ### 🌐 Desenvolvimento web
+
 - Estrutura HTML.
 - Organização de conteúdo.
 - Estilização com CSS.
