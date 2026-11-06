@@ -1,128 +1,316 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:6A00F5,100:00D4FF&height=200&section=header&text=Gustavo%20Aparecido&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Análise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=55&descSize=15" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,35:3A0CA3,70:00D9FF,100:090014&height=220&section=header&text=GUSTAVO%20APARECIDO&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=ANÁLISE%20E%20DESENVOLVIMENTO%20DE%20SISTEMAS&descAlignY=60&descSize=15&animation=fadeIn" />
 
-# 👨‍💻 Olá, seja bem-vindo ao meu GitHub!
+<a href="https://github.com/Gustavo-Ap-Silveira">
+<img src="https://img.shields.io/badge/GitHub-0D0B1A?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+</a>
+<a href="https://linkedin.com/in/gustavo-silveira-57320b336">
+<img src="https://img.shields.io/badge/LinkedIn-0D0B1A?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+</a>
 
-**Transformando aprendizado em projetos e ideias em código.**
+<img src="https://img.shields.io/badge/ADS-1º%20SEMESTRE-7B2CFF?style=for-the-badge&labelColor=0D0B1A"/>
+<img src="https://img.shields.io/badge/FOCO-TECNOLOGIA-00BFEA?style=for-the-badge&labelColor=0D0B1A"/>
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+# 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no **1º semestre**, e estou construindo minha trajetória na área de tecnologia.
+Olá! Sou **Gustavo Aparecido**, estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no primeiro semestre.
 
-Tenho interesse em programação, desenvolvimento web, banco de dados e resolução de problemas. Utilizo este espaço para compartilhar meus estudos, projetos acadêmicos e minha evolução como desenvolvedor.
+Estou iniciando minha jornada na área de tecnologia, buscando desenvolver conhecimentos em programação, desenvolvimento web, banco de dados e lógica computacional.
 
-- 🎓 Análise e Desenvolvimento de Sistemas — 1º semestre
-- 💻 Em constante aprendizado na área de tecnologia
-- 📚 Estudando programação, banco de dados e desenvolvimento web
-- 🎯 Buscando minha primeira oportunidade na área de TI
+Meu interesse pela tecnologia vai além de aprender linguagens: gosto de entender como os sistemas funcionam, como as informações são organizadas e como transformar ideias em projetos que possam ser utilizados na prática.
 
----
-
-## 🛠️ Tecnologias e ferramentas
+Atualmente, estou construindo minha base por meio de atividades acadêmicas, exercícios de programação e projetos desenvolvidos individualmente e em grupo.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,c,mysql,github,vscode&theme=dark" />
+### ✦ Minha jornada na tecnologia ✦
 
 </div>
 
-### 📌 Conhecimentos em desenvolvimento
-
-| Área | Conteúdos |
-|---|---|
-| Front-end | HTML e CSS |
-| Programação | Linguagem C |
-| Banco de dados | SQL e MySQL |
-| Algoritmos | Estruturas de repetição e ordenação |
-| Ferramentas | GitHub e VS Code |
+- 💻 Estudando programação e desenvolvimento de software.
+- 🌐 Desenvolvendo páginas utilizando HTML e CSS.
+- 🧠 Praticando lógica de programação e algoritmos.
+- 🗄️ Aprendendo criação, organização e relacionamento de bancos de dados.
+- 🔧 Conhecendo ferramentas utilizadas no desenvolvimento de projetos.
+- 📚 Buscando constantemente novos conhecimentos e desafios.
 
 ---
 
-## 📊 Minha evolução nos estudos
+# 🎯 Objetivos profissionais
 
-Atualmente, estou desenvolvendo minhas habilidades por meio de atividades acadêmicas, exercícios práticos e projetos pessoais.
+Quero construir uma carreira na área de tecnologia, desenvolvendo minhas habilidades e adquirindo experiência por meio de projetos e oportunidades de aprendizado.
+
+Meus principais objetivos são:
+
+- Aprimorar minha lógica de programação.
+- Evoluir na linguagem C e em outras tecnologias.
+- Desenvolver aplicações e páginas web.
+- Aprender mais sobre banco de dados e engenharia de software.
+- Conhecer novas ferramentas e metodologias.
+- Conquistar minha primeira oportunidade profissional na área de TI.
+
+---
+
+# 🚀 Tecnologias e ferramentas
 
 <div align="center">
 
-![HTML](https://img.shields.io/badge/HTML-Em%20aprendizado-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-Em%20aprendizado-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/Linguagem%20C-Em%20aprendizado-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-Em%20aprendizado-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,c,mysql,git,github,vscode&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HTML5-0D0B1A?style=for-the-badge&logo=html5&logoColor=FF4D00"/>
+<img src="https://img.shields.io/badge/CSS3-0D0B1A?style=for-the-badge&logo=css3&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/C-0D0B1A?style=for-the-badge&logo=c&logoColor=7B61FF"/>
+<img src="https://img.shields.io/badge/SQL-0D0B1A?style=for-the-badge&logo=mysql&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Git-0D0B1A?style=for-the-badge&logo=git&logoColor=FF6B35"/>
+<img src="https://img.shields.io/badge/GitHub-0D0B1A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 
 </div>
 
----
-
-## 💻 Projetos e atividades
-
-Aqui estão alguns dos projetos e exercícios que fazem parte da minha jornada de aprendizado:
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| **SCourge** | Desenvolvimento de um site voltado ao universo dos jogos e comunidades. | HTML e CSS |
-| **UPSkill** | Projeto acadêmico de planejamento e desenvolvimento de um sistema ERP. | Banco de dados, SQL e modelagem |
-| **Caixa Eletrônico** | Simulação de operações básicas de saque e controle de saldo. | C |
-| **Cifra de César** | Exercício de criptografia utilizando deslocamento de caracteres. | C |
-| **Fibonacci e Criptografia** | Atividades envolvendo lógica de programação e sequências numéricas. | C |
-| **Progressão Aritmética** | Exercício de lógica envolvendo sequências e cálculos matemáticos. | C |
-
----
-
-## 🧠 O que estou estudando
+### 📊 Nível de contato com as tecnologias
 
 <div align="center">
 
-| 💡 Programação | 🌐 Desenvolvimento Web |
-|:---:|:---:|
-| Lógica de programação | Estrutura HTML |
-| Linguagem C | Estilização com CSS |
-| Algoritmos de ordenação | Organização de páginas |
+<table>
+<tr>
+<td align="center" width="33%">
 
-| 🗄️ Banco de dados | ⚙️ Ferramentas |
-|:---:|:---:|
-| Modelagem de dados | GitHub |
-| SQL e MySQL | Visual Studio Code |
-| DER e relacionamentos | Organização de projetos |
+<img src="https://img.shields.io/badge/HTML5-FF4D00?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://geps.dev/progress/65?dangerColor=FF4D00&warningColor=FF4D00&successColor=FF4D00"/>
+
+**65%**
+
+<sub>Estruturação web</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/CSS3-00AEEF?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://geps.dev/progress/55?dangerColor=00AEEF&warningColor=00AEEF&successColor=00AEEF"/>
+
+**55%**
+
+<sub>Estilização visual</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/LANG_C-8B5CF6?style=for-the-badge&logo=c&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://geps.dev/progress/50?dangerColor=8B5CF6&warningColor=8B5CF6&successColor=8B5CF6"/>
+
+**50%**
+
+<sub>Lógica e algoritmos</sub>
+
+</td>
+</tr>
+</table>
+
+<sub>Indicadores ilustrativos do meu contato atual com cada tecnologia.</sub>
 
 </div>
 
 ---
 
-## 🎯 Objetivos
+# 🧠 Conhecimentos em desenvolvimento
 
-- Aprofundar meus conhecimentos em programação.
-- Desenvolver projetos cada vez mais completos.
-- Aprimorar minhas habilidades em banco de dados.
-- Aprender novas tecnologias e ferramentas.
-- Conquistar minha primeira oportunidade profissional na área de tecnologia.
+### 💻 Programação em C
+
+- Variáveis e tipos de dados.
+- Estruturas condicionais e de repetição.
+- Vetores e matrizes.
+- Funções e modularização.
+- Ponteiros e manipulação de memória.
+- Manipulação de arquivos.
+- Estruturas de dados e ordenação.
+
+### 🔢 Algoritmos
+
+- Bubble Sort.
+- Insertion Sort.
+- Selection Sort.
+- Merge Sort.
+- Quick Sort.
+- Progressões e sequências numéricas.
+- Lógica de resolução de problemas.
+
+### 🗄️ Banco de dados
+
+- Criação de bancos de dados.
+- Criação e alteração de tabelas.
+- Chaves primárias e estrangeiras.
+- Relacionamentos entre tabelas.
+- Consultas SQL.
+- Modelagem de dados e DER.
+- MySQL Workbench.
+
+### 🌐 Desenvolvimento web
+
+- Estrutura HTML.
+- Organização de conteúdo.
+- Estilização com CSS.
+- Flexbox.
+- Tabelas e formulários.
+- Organização de páginas e navegação.
 
 ---
 
-## 📫 Contato
+# 📁 Projetos e atividades
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🌐 SCourge
+
+Site voltado ao universo dos jogos e comunidades.
+
+<img src="https://img.shields.io/badge/HTML-0D0B1A?style=flat-square&logo=html5&logoColor=FF4D00"/>
+<img src="https://img.shields.io/badge/CSS-0D0B1A?style=flat-square&logo=css3&logoColor=00D9FF"/>
+
+</td>
+<td align="center" width="50%">
+
+### 🏧 Caixa Eletrônico
+
+Simulação de operações básicas de saque e controle de saldo.
+
+<img src="https://img.shields.io/badge/C-0D0B1A?style=flat-square&logo=c&logoColor=7B61FF"/>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🔐 Cifra de César
+
+Exercício de criptografia utilizando deslocamento de caracteres.
+
+<img src="https://img.shields.io/badge/C-0D0B1A?style=flat-square&logo=c&logoColor=7B61FF"/>
+
+</td>
+<td align="center" width="50%">
+
+### 🔢 Fibonacci e Criptografia
+
+Atividades envolvendo lógica de programação e sequências numéricas.
+
+<img src="https://img.shields.io/badge/C-0D0B1A?style=flat-square&logo=c&logoColor=7B61FF"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🎓 Formação acadêmica e cursos
+
+- **Análise e Desenvolvimento de Sistemas** — 1º semestre.
+- Formação técnica concluída.
+- Fundação Bradesco — Administração.
+- Fundação Bradesco — Banco de Dados.
+- Fundação Bradesco — Fundamentos de TI: Hardware e Software.
+
+---
+
+# 📈 Minha jornada no GitHub
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FOCO-APRENDIZADO-7B2CFF?style=for-the-badge&labelColor=0D0B1A"/>
+<img src="https://img.shields.io/badge/PRÁTICA-PROJETOS-00BFEA?style=for-the-badge&labelColor=0D0B1A"/>
+<img src="https://img.shields.io/badge/OBJETIVO-EVOLUÇÃO-00D9FF?style=for-the-badge&labelColor=0D0B1A"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 💻 Programação
+
+C, lógica computacional e algoritmos.
+
+</td>
+<td align="center" width="50%">
+
+### 🌐 Front-end
+
+HTML, CSS e construção de páginas web.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🗄️ Banco de dados
+
+SQL, MySQL e modelagem de dados.
+
+</td>
+<td align="center" width="50%">
+
+### ⚙️ Ferramentas
+
+GitHub, Git e Visual Studio Code.
+
+</td>
+</tr>
+</table>
+
+<sub>Um espaço dedicado aos meus estudos, projetos e evolução na programação.</sub>
+
+</div>
+
+---
+
+# 🌌 Além dos códigos
+
+Acredito que aprender tecnologia exige curiosidade, prática e disposição para enfrentar desafios.
+
+Cada projeto representa uma oportunidade de aprender algo novo, corrigir erros, testar ideias e melhorar minhas habilidades.
+
+Ainda estou no começo da minha trajetória, mas tenho como objetivo aproveitar cada experiência para construir uma base sólida e crescer profissionalmente.
+
+---
+
+# 🤝 Vamos nos conectar?
 
 <div align="center">
 
 <a href="https://linkedin.com/in/gustavo-silveira-57320b336">
-<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-7B2CFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Gustavo-Ap-Silveira">
-<img src="https://img.shields.io/badge/GitHub-Meus%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-00BFEA?style=for-the-badge&logo=github&logoColor=0D0B1A"/>
 </a>
 
-</div>
+<br/><br/>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:3A0CA3,100:00D9FF&height=120&section=footer"/>
 
-<div align="center">
-
-**"A evolução acontece quando transformamos conhecimento em prática."**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:6A00F5,100:090014&height=100&section=footer" width="100%"/>
+**「 Sempre aprendendo. Sempre evoluindo. 」**
 
 </div>
